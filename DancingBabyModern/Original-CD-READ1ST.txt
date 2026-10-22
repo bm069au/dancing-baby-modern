@@ -1,0 +1,52 @@
+LAST MINUTE INSTALL NOTES
+=========================
+During the Installation Process you will be given two options:
+Regular Install or Full Install. This CD contains over 150 Dancing
+Baby animations and those video files take up a lot of space!
+
+The "Regular Install" option will require 16MB and installs 10
+of the most popular animations.
+
+The "Full Install" option will install a larger selection of
+animations and requires over 60MB. If you have the hard drive
+space, go for it, there are some pretty hilarious animations.
+
+Either way, you can easily delete the animations you don't want
+and add the ones you do by simply deleting/copying the appropriate
+files. Full details on adding/removing animations can be found
+by reading the README File or by clicking on "Help" from within
+the progam itself.
+
+Be sure to explore the "More Animations" and "More Animations 2"
+folders on the CD to see many more animations!
+
+LEGAL DISCALIMER PLEASE READ
+============================
+The Complete Dancing Screensaver is Published by NCDS, and
+Developed by Atomic Media Software and is Copyright (c)1998 Atomic
+Media Software. The "Dancing Baby" character was created by Unreal
+Pictures, Inc. for Kinetix, a division of Autodesk, Inc. and is
+a registered copyright of Unreal Pictures, Inc./Autodesk, Inc.
+Used with Permission. Windows 95/98/NT and Active Movie are
+registered trademarks of Microsoft Corp.
+
+ATOMIC MEDIA DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED,
+INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SOFTWARE,
+THE PRINTED MATERIALS AND THE ATOMIC MEDIA IMAGES. ATOMIC MEDIA DOES
+NOT WARRANT THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED
+OR ERROR FREE OR THAT THE SOFTWARE WILL MEET YOUR SPECIFIC
+REQUIREMENTS. ADDITIONAL STATEMENTS SUCH AS PRESENTATIONS, WHETHER
+ORAL OR WRITTEN, DO NOT CONSTITUTE WARRANTIES BY ATOMIC MEDIA AND
+SHOULD NOT BE RELIED UPON.
+
+NEITHER ATOMIC MEDIA, NCDS, NOR ANY OF ATOMIC MEDIA'S OR NCDS'
+RESPECTIVE OFFICERS, EMPLOYEES, DIRECTORS, AGENTS, LICENSEES,
+SUBLICENSEES, SUCCESSORS OR ASSIGNS SHALL BE LIABLE FOR LOSS OF DATA,
+LOSS OF PROFITS, LOST SAVINGS, SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+INDIRECT, PUNITIVE OR OTHER SIMILAR DAMAGES ARISING FROM BREACH OF
+WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, STRICT PRODUCT LIABILITY,
+OR OTHER LEGAL THEORY EVEN IF ATOMIC MEDIA, NCDS OR THEIR RESPECTIVE
+AGENT(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR EVEN
+IF SUCH DAMAGES ARE FORESEEABLE, OR LIABLE FOR ANY CLAIM BY ANY OTHER
+PARTY.
