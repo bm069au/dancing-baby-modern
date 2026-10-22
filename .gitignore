@@ -1,0 +1,10 @@
+/CD/
+/*.iso
+/Setup_*.exe
+/DancingBabyModern/Videos/
+/DancingBabyModern/Music/
+/DancingBabyModern/*.scr
+/DancingBabyModern/playback-*
+/*.zip
+/START-HERE-update.md
+/drive-save-receipt.json

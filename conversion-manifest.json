@@ -1,0 +1,1405 @@
+[
+  {
+    "source": "FILES\\BABYLIFT.AVI",
+    "output": "001_BABYLIFT.mp4",
+    "sha256": "6e69fc8589b3f70114761edb36fa9badf2c2eecc7c69f8da709e95369d513749",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BACKKICK.AVI",
+    "output": "002_BACKKICK.mp4",
+    "sha256": "96de0e60b62edd708db41fae636f4c438cb14dc44073a728838c2a99c3835995",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BALLET.AVI",
+    "output": "003_BALLET.mp4",
+    "sha256": "768ca6ad54a6cf1178d9dc36928daab94cb01a0c7fe2586107608981c2984fb8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BEE2.AVI",
+    "output": "004_BEE2.mp4",
+    "sha256": "63aec86f06a010c4b5a500639f4a6f0d193bf976e7ee7cca9d64f204577480c6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BLKWHITE.AVI",
+    "output": "005_BLKWHITE.mp4",
+    "sha256": "340ed306df319371e9223b00681549df6b4ed834460aaf6cad1b5bf1d9362eed",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BLOWNAWY.AVI",
+    "output": "006_BLOWNAWY.mp4",
+    "sha256": "2ae76e488467fef14bac6ebcab854adaa23576111d5ce816a70bdedf0eba8334",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BLUR.AVI",
+    "output": "007_BLUR.mp4",
+    "sha256": "be7a08c8eeb79cac997eaadb6a67abafa87d406014878dc0abdebc93b35014a0",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BOUNCING.AVI",
+    "output": "008_BOUNCING.mp4",
+    "sha256": "ecc81c8adccc1f17d2b6ddfb74ef6c3ffd37e3a44a2163f6d92c38b88567720a",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\BRDJUMP.AVI",
+    "output": "009_BRDJUMP.mp4",
+    "sha256": "983a8f521d819493af9410a7fa4e1393c01e1e2671fcffbe534e64de50163829",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\CARCRASH.AVI",
+    "output": "010_CARCRASH.mp4",
+    "sha256": "871eed78751c269a95b7785b75f202cba389a5d27c690c92d0831e607fe20f41",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\CARTWHEL.AVI",
+    "output": "011_CARTWHEL.mp4",
+    "sha256": "9344bf08a1bd9f270752fe1dfcfd8c21902ea1576b3ec43ebd068f95b7242c38",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\CLEAN.AVI",
+    "output": "012_CLEAN.mp4",
+    "sha256": "014f687fa5688d2b309079f80892046febec0bffe0c61203e009d95d2c73c822",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\DOGDOO.AVI",
+    "output": "013_DOGDOO.mp4",
+    "sha256": "3230f5560fab9f8f7bb28f43c25e099921faee35f166b77e466e8fb7a881f28d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\DRUNK.AVI",
+    "output": "014_DRUNK.mp4",
+    "sha256": "2d07179d4dfa994e87d90ee485e306b2c2b281cb4a8a514a2a6949847799d1ba",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\FLIPS.AVI",
+    "output": "015_FLIPS.mp4",
+    "sha256": "0c9def4bab59ad4e47b3519e1869bf0875341f01a7a56db7de053446a9d6d971",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\FRANKEN.AVI",
+    "output": "016_FRANKEN.mp4",
+    "sha256": "96d097f6ede32d1ac72bb11b2dae956fbfc4d3fbad36b94b718cce5b87692dc7",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\JUMPROPE.AVI",
+    "output": "017_JUMPROPE.mp4",
+    "sha256": "4a027507854549b647648d6ac1c3f81a06fca1f55beed7196b45680a1a13ef9d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\MIRROR.AVI",
+    "output": "018_MIRROR.mp4",
+    "sha256": "511518713df3cc0bc7b0a7baebf4026dbfd2612fbf41ee577fe883d816611cc7",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\MUSCLE.AVI",
+    "output": "019_MUSCLE.mp4",
+    "sha256": "902c07399a59b16ea79af4a50b286e3d5d69abfc43f63255a7b266f62219a34d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\NEWBABY7.AVI",
+    "output": "020_NEWBABY7.mp4",
+    "sha256": "e3045daeb458935148a6fb12c455f6af31105ccfb40b61cefba37ce45c47299a",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\PRODIGY.AVI",
+    "output": "021_PRODIGY.mp4",
+    "sha256": "3b5a073ff23962d8244aef24b2de82aac6ea39a483807e184576bb356086a37c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\PSYCHO.AVI",
+    "output": "022_PSYCHO.mp4",
+    "sha256": "bfebcabdbc8127a5c5588d2a75a7c008b77b38532fbc361d713f324d02d2de1a",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\PUSHUPS.AVI",
+    "output": "023_PUSHUPS.mp4",
+    "sha256": "a5e1ab7153490777a994c9b5551ce96e9825267a041628deec1b445392280431",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\TWIRL.AVI",
+    "output": "024_TWIRL.mp4",
+    "sha256": "eef20d830bcd2de2043ea3c13890925659f8a7b051ddf8fda97b886f233cc27c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "FILES\\UPAWAY.AVI",
+    "output": "025_UPAWAY.mp4",
+    "sha256": "0650958473fe5e436b147702c4e16dd48b04296e7154120a9a8d26191ef879cb",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\ACID BABY.MOV",
+    "output": "026_ACID BABY.mp4",
+    "sha256": "26452c70f488203f785e4fdd0d85a7ba010e6ec657f9256b8e0bdfe204b02c52",
+    "success": true,
+    "diagnostics": "[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2597 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2317 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 934 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 6110 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 4073 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2036 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1980 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2132 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1776 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1553 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1515 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1480 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1491 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1369 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2052 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 1977 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 2114 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 367 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001a817444940] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 000001a817461d00] [dec:rpza @ 000001a817442c40] Error submitting packet to decoder: Invalid data found when processing input"
+  },
+  {
+    "source": "MORE ANIMATIONS\\BABY800.AVI",
+    "output": "027_BABY800.mp4",
+    "sha256": "58a259342aacf916cdffe34a514f49200c629b3a1243080bd3715bbffce160f5",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BABYCAR.MOV",
+    "output": "028_BABYCAR.mp4",
+    "sha256": "0938b59dd7b1a0a95d17a9dd82527c826f8d2666feb3e190ab75c203fc994738",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BABYCHA1.AVI",
+    "output": "029_BABYCHA1.mp4",
+    "sha256": "24f68f080d37749dc7d38bc3377892bd4d4a061f2ca00df4154ad76bd3f955fd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BABYDIES.AVI",
+    "output": "030_BABYDIES.mp4",
+    "sha256": "f542530fcd5488eb6a591ab9136749f4f51189dd0a497be0bc597dcec74227c5",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BABYLOW.AVI",
+    "output": "031_BABYLOW.mp4",
+    "sha256": "f63f8d9e5c32ea0821c7715b4b6bb0d6f68daa070f89ae79ef13fc2008cc0ac2",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BACKKICK.AVI",
+    "output": "032_BACKKICK.mp4",
+    "sha256": "529985351ae209c04c8154b438d5dfeb7547d3bbbe6557aea9444b85b0712d9c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BALLET.AVI",
+    "output": "033_BALLET.mp4",
+    "sha256": "7a899bab7880b083e0d2be318efa6537ed4934c91be3ddc6a7d0dd2e43963d02",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BBYBOY.AVI",
+    "duplicate_of": "008_BOUNCING.mp4",
+    "sha256": "ecc81c8adccc1f17d2b6ddfb74ef6c3ffd37e3a44a2163f6d92c38b88567720a"
+  },
+  {
+    "source": "MORE ANIMATIONS\\BLUESBABY.AVI",
+    "output": "034_BLUESBABY.mp4",
+    "sha256": "559f51ef3505e1b71df799f149d7e1e1ad9e7ad12fda7fc7898a5960024618fc",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\BOOGIEBABY.MOV",
+    "output": "035_BOOGIEBABY.mp4",
+    "sha256": "97905cd02c7015dc108803db070955724c1d38d7d3e7226fe7ddb750d88ece6e",
+    "success": true,
+    "diagnostics": "[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 367 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 14902 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 551 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 367 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 000001e349cefd40] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 000001e349cd2a80] [dec:rpza @ 000001e349cfdc00] Error submitting packet to decoder: Invalid data found when processing input"
+  },
+  {
+    "source": "MORE ANIMATIONS\\CARCRASH.MOV",
+    "duplicate_of": "028_BABYCAR.mp4",
+    "sha256": "0938b59dd7b1a0a95d17a9dd82527c826f8d2666feb3e190ab75c203fc994738"
+  },
+  {
+    "source": "MORE ANIMATIONS\\CARTWHEEL.AVI",
+    "output": "036_CARTWHEEL.mp4",
+    "sha256": "84cb6c68d6f16c8994077a33942d2b961521d03c142d15e6e763d72d2e919cbe",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\CHILDP.MOV",
+    "output": "037_CHILDP.mp4",
+    "sha256": "b7e4c182d459908d874d323d25f0196c00a842db63762588034959bc93136aac",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\FISHINGBABY2.AVI",
+    "output": "038_FISHINGBABY2.mp4",
+    "sha256": "4e04b467738a694549c17bb4050d0bdd2b14214c83e8a4e49a1cb521cca7a1db",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\FRANKENBAB.MOV",
+    "output": "039_FRANKENBAB.mp4",
+    "sha256": "1715f18a84cea51686ee4229619ac600ea6c616214346f20658dcdc655fbc9a2",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\GUNFIGHTER.AVI",
+    "output": "040_GUNFIGHTER.mp4",
+    "sha256": "ed582da70a7c348c4e0e0c770a8556171de9b9a0457ce71210db47f14ec21564",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\MILLITARY.AVI",
+    "output": "041_MILLITARY.mp4",
+    "sha256": "4faaa63b085ad7c80ff1ebe14bd1fd36f4a313c06f71000c007bbbddbab9d875",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\OOGABABY.AVI",
+    "output": "042_OOGABABY.mp4",
+    "sha256": "3416778a4fdd5111d59ec8c990cf8d870c519e545a3ac2f7a5c3d70fb89112f0",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\PLANETBABY.AVI",
+    "output": "043_PLANETBABY.mp4",
+    "sha256": "97e84c7778a8f7e488d8fb1fd9c733ab0a89fbda6559dc028ed84dd4d87ee491",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\PSYKOBAB.MOV",
+    "output": "044_PSYKOBAB.mp4",
+    "sha256": "d6a892a4db3d19663f6aac4316421b43073aa79ee3779d2573423c83c7a0d850",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS\\SKRITCH SKRATCH BABY.MOV",
+    "output": "045_SKRITCH SKRATCH BABY.mp4",
+    "sha256": "0a5761e59547d94b3cd0273e472d059f0d6a57bebdcb16db1261db44775c589e",
+    "success": true,
+    "diagnostics": "[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 726 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 2180 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1453 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 726 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 801 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1038 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1062 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1230 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 734 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 4643 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 2321 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1485 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 7143 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 2271 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 2862 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 1327 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 207 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input\n[rpza @ 00000206b9e1f100] Unknown opcode 225 in rpza chunk. Skip remaining 183 bytes of chunk data.\n[vist#0:0/rpza @ 00000206b9e15cc0] [dec:rpza @ 00000206b9e1e3c0] Error submitting packet to decoder: Invalid data found when processing input"
+  },
+  {
+    "source": "MORE ANIMATIONS\\TIGHTROPEBABY.AVI",
+    "output": "046_TIGHTROPEBABY.mp4",
+    "sha256": "b41dd557d588b7a422824adb6586dce06167cf75b2cc285c1bf7f4ba853d440a",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\ABOUTFACE.AVI",
+    "output": "047_ABOUTFACE.mp4",
+    "sha256": "ed41eac118f953ca689949b7006d4c6ed07d95afe5842f57fcc203aa99bbe8fe",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\ATHLETESTRETCH.AVI",
+    "output": "048_ATHLETESTRETCH.mp4",
+    "sha256": "775d222b494adc0ffbaeb25bd9fe156f356b14c1f052c6e9ad88452f355f090b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\AXEKICK.AVI",
+    "output": "049_AXEKICK.mp4",
+    "sha256": "051dfad8edd0b13f93adc8c7a662a4db17582e0822e3f55a8dd28aed021632e8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKFLIP.AVI",
+    "output": "050_BACKFLIP.mp4",
+    "sha256": "421e069120c72633373e18d96c95bbeeab9a117d1614f8fb6dcc2812be4fd0a1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKHANDSPRING.AVI",
+    "output": "051_BACKHANDSPRING.mp4",
+    "sha256": "0d9a6447b5aa45de34c7bf8f919199f5d456804e5495866eecc9e80fe53865f7",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKHANDSPRINGBTUCK.AVI",
+    "output": "052_BACKHANDSPRINGBTUCK.mp4",
+    "sha256": "d4fed1ffd7c168926408ff9225c4f7dff390f518e7021eb5d94f77e3bf79f737",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKKICK.AVI",
+    "duplicate_of": "032_BACKKICK.mp4",
+    "sha256": "529985351ae209c04c8154b438d5dfeb7547d3bbbe6557aea9444b85b0712d9c"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKLEGKICK.AVI",
+    "output": "053_BACKLEGKICK.mp4",
+    "sha256": "576f52c2c215785bf0487dcebcd611bad6d8f39210bf4b3ec3d804e7e6c68b1d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKSTAB.AVI",
+    "output": "054_BACKSTAB.mp4",
+    "sha256": "a11f2c2bdadde559d58d7d76095ed5a77d26a5881dde81bf0ba1e18e06aff6f2",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BACKWALKLOOP.AVI",
+    "output": "055_BACKWALKLOOP.mp4",
+    "sha256": "1ec4c4efeca17e210f45b3f8421d111d6edd9930efc1e2033f03844863a728c5",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BALLET.AVI",
+    "duplicate_of": "033_BALLET.mp4",
+    "sha256": "7a899bab7880b083e0d2be318efa6537ed4934c91be3ddc6a7d0dd2e43963d02"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BANANA.AVI",
+    "output": "056_BANANA.mp4",
+    "sha256": "8b845dd25eb33400f982d0579ea7d4c98d8595e9933eaf1c61be2cf376f16566",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BANGTHUMB.AVI",
+    "output": "057_BANGTHUMB.mp4",
+    "sha256": "13989f831f2841a6a1428d758fccdd14a40737db07665b52e2bbc1024421e0f8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BARBECUE.AVI",
+    "output": "058_BARBECUE.mp4",
+    "sha256": "e8af6993d61f46eac4c080e9b7115fa3ec29a1bf921e3354de75a5413f38589c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BARSTOOLSIT.AVI",
+    "output": "059_BARSTOOLSIT.mp4",
+    "sha256": "f8341ba96fef96d81e19cc3eb6711ecb3c7c11a578bb8c4e4a4777ec006c0c90",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BARSTOOLSTAND.AVI",
+    "output": "060_BARSTOOLSTAND.mp4",
+    "sha256": "791dbd0767d2490593d5ea60ab9085b7dfb39526607e85b52253ac6c118ea61b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BEES.AVI",
+    "output": "061_BEES.mp4",
+    "sha256": "dcde04db14a57e18bc54ce02c986b972a483d26365195b40429dd2549fcdddc0",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BLOWNAWAY.AVI",
+    "output": "062_BLOWNAWAY.mp4",
+    "sha256": "cc38919def0010ac58da76eaffb462d77fadba5b51c6d7ba6743d3123cf6291e",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BOW.AVI",
+    "output": "063_BOW.mp4",
+    "sha256": "7b82dc4a95afa218f917d6804a86c8796bbd2d9e5fec5aba316730fa9720fd37",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\BROADJUMP.AVI",
+    "output": "064_BROADJUMP.mp4",
+    "sha256": "1893bb7a1b3e3b19cc16661c924aa0fa1a0873c390ed8f3c4d68853694841bae",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CALLDOG.AVI",
+    "output": "065_CALLDOG.mp4",
+    "sha256": "ec0029117109d03980f87a83d5fc1ce5c267ebe07d24a74f1be218d0e4412746",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CANEWALKLOOP.AVI",
+    "output": "066_CANEWALKLOOP.mp4",
+    "sha256": "0cd29043b292fedb841698daee3106a175c298a441e3821b9ec0161623d316fc",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CARRYHEAVY.AVI",
+    "output": "067_CARRYHEAVY.mp4",
+    "sha256": "133f87f13b93cad9ae519bbf4e1c70290e9e8913476706f519050423b04638c8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CARTWHEEL.AVI",
+    "duplicate_of": "036_CARTWHEEL.mp4",
+    "sha256": "84cb6c68d6f16c8994077a33942d2b961521d03c142d15e6e763d72d2e919cbe"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CARTWHLPUNCH.AVI",
+    "output": "068_CARTWHLPUNCH.mp4",
+    "sha256": "664e26a76c9c40c6be890e8b743ec429b23e4ba46493f24c0b74fe0f440ae8d6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CHAIRSIT.AVI",
+    "output": "069_CHAIRSIT.mp4",
+    "sha256": "b9bf5b1cf87ad1ad994b514c79e9ec2b2e6010779ec3cde3470a978717f70ad1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CHAIRSTAND.AVI",
+    "output": "070_CHAIRSTAND.mp4",
+    "sha256": "ec725af4418588fbeee94b40f8f02c022b4b38c290c0362daef21cb86956c498",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CHEER.AVI",
+    "output": "071_CHEER.mp4",
+    "sha256": "1d4a1b0b98465a7391a5c81aa8d1d2bd9540a986b205a889b37036a6c57e57d7",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CHOKE.AVI",
+    "output": "072_CHOKE.mp4",
+    "sha256": "39c4acab3219133fc019080695823c91cb4467e6820e6051540c389ca5965d90",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CIGARETTE.AVI",
+    "output": "073_CIGARETTE.mp4",
+    "sha256": "4106b9a7236054b72253fe80fe48f294054391dd06294234194b4869d19f942c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\CLIFFFALL.AVI",
+    "output": "074_CLIFFFALL.mp4",
+    "sha256": "c4c8e6e1cae4022bc9d4b984c3e2aa7961e2db56fd6470469c11c99f52f15a40",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DBLRNDKICK.AVI",
+    "output": "075_DBLRNDKICK.mp4",
+    "sha256": "758b94e7bc2b873b8e3f26545cdc41641e5b979139cb72dd1d4749ceec2bbea1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DODGE.AVI",
+    "output": "076_DODGE.mp4",
+    "sha256": "9373377998bc1986c532c11ad153d60c7e9760aa5af227b8bc454a82adb084c6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DOGDODO.AVI",
+    "output": "077_DOGDODO.mp4",
+    "sha256": "22cf3f4605d2c936c5c7dda758125463a68dd514d17a15b11189ae00dc67e897",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DOUBLETAKE.AVI",
+    "output": "078_DOUBLETAKE.mp4",
+    "sha256": "379b6350c3bb35009592bda27ee12601f61a7197aa96dd5338f9ed955a74b834",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DRAGBYDOG.AVI",
+    "output": "079_DRAGBYDOG.mp4",
+    "sha256": "78147922987c3cf87e0145d218fcd78ffb5b4ac602e490e54d83df815c4c1913",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\DRIVE.AVI",
+    "output": "080_DRIVE.mp4",
+    "sha256": "ee2c555c42cbb5d97eb7d1d67873a7489743721f74bad4f0f73e5117335b3c4c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\EATDRINK.AVI",
+    "output": "081_EATDRINK.mp4",
+    "sha256": "761cd13b231a0e223d0b4fd249ca8c5fff668e8a8847c7641292b8f488b2f112",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\EXERCISE.AVI",
+    "output": "082_EXERCISE.mp4",
+    "sha256": "3863fda74c4f0edc4ca25990812810a82d41779ab03c93b5bbd3c82160595c8e",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FACEHIT.AVI",
+    "output": "083_FACEHIT.mp4",
+    "sha256": "ce4064db3eb8879075ae918eb3f3f56ab0183687b6c3565a0440d7d5f8a79172",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FACEPLANT.AVI",
+    "output": "084_FACEPLANT.mp4",
+    "sha256": "54615ab7e8b016d8127d711aeed4ab9f8c21925a29b854fb113fb871af3ca839",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FISHING.AVI",
+    "output": "085_FISHING.mp4",
+    "sha256": "84919b18cc84955bf3df4228ed0f5b5a24cd286afc8a1f610c969215425040b4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FLYSPINKICK.AVI",
+    "output": "086_FLYSPINKICK.mp4",
+    "sha256": "c491b66f89ae3ac243cc1d1e691da4468a2becebb6d574f4bb986eecd9a207ec",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FRIDGE.AVI",
+    "output": "087_FRIDGE.mp4",
+    "sha256": "6a13e3f369cc568e29dc99fde7f6fd3dd83ba4fbda2a4adcdc9481162892f836",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FRNTSWEPKCK.AVI",
+    "output": "088_FRNTSWEPKCK.mp4",
+    "sha256": "ee0c6451323216715fd76350f2b62482fc023eb1dbed72d52ae681feac4a6360",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\FRONTFLIP.AVI",
+    "output": "089_FRONTFLIP.mp4",
+    "sha256": "24c141770474075c2c6ffe8f15885b22216e5070b0af6eb2bfd32d6995519695",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GETPUNCH.AVI",
+    "output": "090_GETPUNCH.mp4",
+    "sha256": "9ee35bd08a1c7208801bb807099f1189c96c1666a5a00bce40397e07b7760bad",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GETSLAPPED.AVI",
+    "output": "091_GETSLAPPED.mp4",
+    "sha256": "141752def26481400410fd65283da9ea2b304be600f69e7b93e3584e349ad55e",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GRABREACH.AVI",
+    "output": "092_GRABREACH.mp4",
+    "sha256": "6790cc6f39f1570eba2a531e02282dc744c5f09912f0bbc1e68a9925304a836b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GRENADE.AVI",
+    "output": "093_GRENADE.mp4",
+    "sha256": "7dbcd91e1169d140d3a690a94aa0fff02534a08bb7fa87d7dafcf6bfbb6ff6da",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GUNDIVE.AVI",
+    "output": "094_GUNDIVE.mp4",
+    "sha256": "5b0dc3f3c6df183bd1821a1a46b164dae6d553f7fd6e1c57fd129c50221fc467",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\GUNFIGHTER.AVI",
+    "duplicate_of": "040_GUNFIGHTER.mp4",
+    "sha256": "ed582da70a7c348c4e0e0c770a8556171de9b9a0457ce71210db47f14ec21564"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HANDPLANT.AVI",
+    "output": "095_HANDPLANT.mp4",
+    "sha256": "4847f7600ef6b5027e3d8c9c942b1aa2a22eea46903ea8d9bf502fb9be90cb28",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HANDSTAND.AVI",
+    "output": "096_HANDSTAND.mp4",
+    "sha256": "4f2b1373a6837371707d56b0ad91e5bfe475f8f0197311dd870e377ab49516d6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HATSOFF.AVI",
+    "output": "097_HATSOFF.mp4",
+    "sha256": "ff0dc06e9484b0131dd2678507eaaefec386a5fac80bf98530f0c991cadff69c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HIPHOP.AVI",
+    "output": "098_HIPHOP.mp4",
+    "sha256": "79f597b77e2d01299b99aa12a7fa73669ec74a83093966330b90e6eff6f8c208",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HOPSCOTCH.AVI",
+    "output": "099_HOPSCOTCH.mp4",
+    "sha256": "e7c8c463ad42dbc9e06d0f585f2c6424169adf20907b000f9d8933436c5157fb",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\HULAHOOP.AVI",
+    "output": "100_HULAHOOP.mp4",
+    "sha256": "54234472149f8f177e1682873c5fc7e5ce9fe4da6b11b092d8fc34f8b2bb8ec1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JOGLOOP.AVI",
+    "output": "101_JOGLOOP.mp4",
+    "sha256": "fcd0b08cdb85e13be8d381cc2e5434e5e91cc90fa16c445a31f5b7fd23b932cf",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JOGSTART.AVI",
+    "output": "102_JOGSTART.mp4",
+    "sha256": "b4844a76e4957ede44c6a3fb3fcaa1cf14d0adda50395c5d54bab007dea700dd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JOGSTOP.AVI",
+    "output": "103_JOGSTOP.mp4",
+    "sha256": "e371e66ff4b12b8ea589692894a30e432fd7da72fb80f8e4d7d94f1f7d7d85b4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JOGTURNL.AVI",
+    "output": "104_JOGTURNL.mp4",
+    "sha256": "32dfcc08efdf20136061d5aa7e28fadc5aa3a7b47915527aada5211bf1dd586d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JOGTURNR.AVI",
+    "output": "105_JOGTURNR.mp4",
+    "sha256": "926f8578c174df233144797f1eb9d11cca13c431fe8392a9844f18313d6caf16",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPBACKKICK.AVI",
+    "output": "106_JUMPBACKKICK.mp4",
+    "sha256": "6029ff9896929726cfc7bf78e6ade2694633e2f96765f230348002be5e7a56f1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPOVER.AVI",
+    "output": "107_JUMPOVER.mp4",
+    "sha256": "a6aa88f98ff62dabb3a9c16c0c528a98cf00de2f4abe47c4a3932e1f751e873c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPRNDKICK.AVI",
+    "output": "108_JUMPRNDKICK.mp4",
+    "sha256": "b5032a1a2006cca9674691271e854906c88c098bb5be121c497d3abaa665b867",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPROPE.AVI",
+    "output": "109_JUMPROPE.mp4",
+    "sha256": "520cc60414be3d7506a8e622bbb8a636ecba9cd7e51b6a1dd69b2dcfc5e7abf4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPROPEDBL.AVI",
+    "output": "110_JUMPROPEDBL.mp4",
+    "sha256": "ca4efd39a86b6aec318c814e8de03992a828acd0522228bbf8edaabffa1a7761",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\JUMPSPLIT.AVI",
+    "output": "111_JUMPSPLIT.mp4",
+    "sha256": "8c75e3f0462787ef2498f6256f3c8b521c2d604117b276ec3f3a6b4bf5761978",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\KICKPUNCH.AVI",
+    "output": "112_KICKPUNCH.mp4",
+    "sha256": "2ff4d2b947e6a88847afdbbb0261a0a7f9e1f7e7cea1ed43090c65e6956175f5",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\KICKUP.AVI",
+    "output": "113_KICKUP.mp4",
+    "sha256": "5eebd3d57d3a9de6a1bf4ef14fc150793b5f0ea1ecc75c09312d77fbba4d041c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\KIDDIE.AVI",
+    "output": "114_KIDDIE.mp4",
+    "sha256": "08da220f7e95a772f3f9e25357ab5f94d7b884030e46c823287d667951f520f3",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\KOED.AVI",
+    "output": "115_KOED.mp4",
+    "sha256": "b2a34a9429bafc7cd7f705339e6608fa674c01a568745c0bf8a4bc05aca96d36",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LAUGH.AVI",
+    "output": "116_LAUGH.mp4",
+    "sha256": "adfdb735a4b6d71f27636553dd3c3f697ce21e1e08bd3530e03fba5d677c487e",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LEGHOOKKICK.AVI",
+    "output": "117_LEGHOOKKICK.mp4",
+    "sha256": "1447b46db56c57aca178fe6a3b8eef1815695176624b26396f4e3f9ad7c93177",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LIFTDIE.AVI",
+    "duplicate_of": "001_BABYLIFT.mp4",
+    "sha256": "6e69fc8589b3f70114761edb36fa9badf2c2eecc7c69f8da709e95369d513749"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LIFTHEAVY.AVI",
+    "output": "118_LIFTHEAVY.mp4",
+    "sha256": "6769dc5808465c5ee2f72b1cd1719b2a56b52a45c415cb6a2a83a8336744e14d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LIMBO.AVI",
+    "output": "119_LIMBO.mp4",
+    "sha256": "e43007246a834d831932ce5d3fd4321bef573ec5125f72feff160f71c0252325",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LIMPLOOP.AVI",
+    "output": "120_LIMPLOOP.mp4",
+    "sha256": "9c8b2121026ba915055e6c0d3f8858b562bcd38e73c9b52435df20dc32d24a29",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\LITELIMPLOOP.AVI",
+    "output": "121_LITELIMPLOOP.mp4",
+    "sha256": "abbf6cb6d370c0b987c2e20d0dc703ce2468d79798b84abde50b0c7856efcf26",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MARCHLOOP.AVI",
+    "output": "122_MARCHLOOP.mp4",
+    "sha256": "7fea297613384f60626f998b3d368e4ba78982c34778d50b5d3abcd932d1bde3",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MARCHSTART.AVI",
+    "output": "123_MARCHSTART.mp4",
+    "sha256": "5b6fd973bc623a21391717a311639b833a2e279f52963606ece1e157f1539c16",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MARCHSTOP.AVI",
+    "output": "124_MARCHSTOP.mp4",
+    "sha256": "a0e1d00ae05dd4d4264db0d32e58953dc6cd28ca84b273d79458877e824bfbdd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MARCHTURNL.AVI",
+    "output": "125_MARCHTURNL.mp4",
+    "sha256": "cb883cbdcbc5512e84f3fcc9ca597ae3ea529ae460b7add5e73e8c2624281ef8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MARCHTURNR.AVI",
+    "output": "126_MARCHTURNR.mp4",
+    "sha256": "8f314781b98b6503fac4ac2f2abfa1f71ce1f6bf7bb84426c252391746183af8",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MOTORCYCLE.AVI",
+    "output": "127_MOTORCYCLE.mp4",
+    "sha256": "bca667c377222d42bf43f77eac09d5cfb8412126610caff3a93e2e36e035ac7f",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\MUSCLE.AVI",
+    "output": "128_MUSCLE.mp4",
+    "sha256": "c8dde62900157849ce3398b54e8a26e6743ea3469199a862b6dff3b96f9f034b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\OLDTIMER.AVI",
+    "output": "129_OLDTIMER.mp4",
+    "sha256": "26c35e156fb6dd2c9afaf79eff1c21d1c408e59b3ab9bcfef3c30c0cc4e3def1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\OZZIEDIE.AVI",
+    "output": "130_OZZIEDIE.mp4",
+    "sha256": "0b515e90f572102223d693740d17452974fea573f1ab1b82c7fe3259c478ad7a",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\POLITICIAN.AVI",
+    "output": "131_POLITICIAN.mp4",
+    "sha256": "2ea8d547e1c6628585208948b2717ac5af0416032020729e5a934ba5d530c628",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\PUNCH.AVI",
+    "output": "132_PUNCH.mp4",
+    "sha256": "a0c0bd36bd1241a1f13150d1dc5f0dc2495ed81223b500501f51a1ec5d241c03",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\PUSHHEAVYA01.AVI",
+    "output": "133_PUSHHEAVYA01.mp4",
+    "sha256": "a248cce3cf8344db02dc646acf7e38f08a16848e6438bc3483cd906455af8dcb",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\PUSHUPS.AVI",
+    "output": "134_PUSHUPS.mp4",
+    "sha256": "51c189276937decb218c7d391d29d1cb43005dc512cf8c71f3b0473a0cddcfe1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RAMPLAUNCH.AVI",
+    "output": "135_RAMPLAUNCH.mp4",
+    "sha256": "ec1e7856e23e424b49c3e0fc21180b2887edf1d61ae2b93cbd6f99797cb0c2a0",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\REPEL.AVI",
+    "output": "136_REPEL.mp4",
+    "sha256": "d59a17a0783634b3bde1be980b53ac245eac78bd5f1bbf777c749b22eeaba7e1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RNDOFFBTUCK.AVI",
+    "output": "137_RNDOFFBTUCK.mp4",
+    "sha256": "a2ad00c0abf177d3ad102e42e4cb6262bb8dcdd30ce5525597b7b7889f83bd11",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\ROBOT.AVI",
+    "output": "138_ROBOT.mp4",
+    "sha256": "06c09d1c50256dbbf911d85a61aba9a54217e735137991f38fccd008e7645ea7",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\ROPEPULL.AVI",
+    "output": "139_ROPEPULL.mp4",
+    "sha256": "a27c82698d37f0fad834891a8ee1a80769c5fd91b9bd16885b1e09b8dcdbbdc6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\ROUNDKICK.AVI",
+    "output": "140_ROUNDKICK.mp4",
+    "sha256": "42ae2e32b9d3892a069f529e3f0b7e01c42183b9a2123289651306597c725bab",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNLOOP.AVI",
+    "output": "141_RUNLOOP.mp4",
+    "sha256": "1d3aa4af58b24c4fefd0997939ee09ca2d715627d36fa02a128a56b400c81371",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNLOOPC.AVI",
+    "output": "142_RUNLOOPC.mp4",
+    "sha256": "decf3a19627a0365e371924309cee7dbcdf86fadb1d5995737f8fac93a6ebeeb",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNSTART.AVI",
+    "output": "143_RUNSTART.mp4",
+    "sha256": "5828cead2d5492e032543d9a53dfbf2b02bf1f96a048dd7e23ee77e374d29c1b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNSTOP.AVI",
+    "output": "144_RUNSTOP.mp4",
+    "sha256": "dd241994702ddcbcfc9ccce9a4811e3bc3f0a7c88613d38284f36202bb736a56",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNTURNL.AVI",
+    "output": "145_RUNTURNL.mp4",
+    "sha256": "09330c57fac4f4a4e3b25918d6f90fe7abffd5e7d5fee6eddbe2145174119917",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\RUNTURNR.AVI",
+    "output": "146_RUNTURNR.mp4",
+    "sha256": "53b7dfd75c9ba84e86f087988800571a02bc49cc370de4bed885b7c84bcfce64",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SAW.AVI",
+    "output": "147_SAW.mp4",
+    "sha256": "628d1a5c0e9efab7c16763292d469ca1112516865b5197c9569cfec4d105e8d4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SCISSORKICK.AVI",
+    "output": "148_SCISSORKICK.mp4",
+    "sha256": "9faaeec4fbc3f343bc513a21be6a9a2ff65282fb6b6408425e94ae9788aa3f10",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SHOCKED.AVI",
+    "output": "149_SHOCKED.mp4",
+    "sha256": "ba92ddaf2bbc40866591cfc52fdb734b622d2bc4bd5b78046b1fc7f675e08268",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SHOOTARROW.AVI",
+    "output": "150_SHOOTARROW.mp4",
+    "sha256": "9dcce0bc3bfd65ef2b59efa09ae45bc67b6d99d3a7ec8118e7675836af3b8db4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SIDEKICK.AVI",
+    "output": "151_SIDEKICK.mp4",
+    "sha256": "2686506bf612d3d527a0852da6562a5da767c6be1580e5d56b558d97849ee25d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATEBACK.AVI",
+    "output": "152_SKATEBACK.mp4",
+    "sha256": "1b6683e914160cb3bccbf2968da485533b828f1b29e006e5b61afda3df5dfd78",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATELOOP.AVI",
+    "output": "153_SKATELOOP.mp4",
+    "sha256": "dde854f30f568bcce583ccc12f26bfcc32aaf5e5f6dc1cd5c7f5deddcee2dd6b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATESPIN.AVI",
+    "output": "154_SKATESPIN.mp4",
+    "sha256": "31368189ca17ff20dbd53757fc4325e791651eb0f48fed249967a5a47051176b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATESTART.AVI",
+    "output": "155_SKATESTART.mp4",
+    "sha256": "6e92393b0917f169de76041404fca50a90be609cd29b83e17e19638a3ffdf3f1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATESTOP.AVI",
+    "output": "156_SKATESTOP.mp4",
+    "sha256": "c3b4507ef42465b2db27d1bac64a3b39299e5e385d52ae9f66ff55b9a0e79cfd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATETRNARND.AVI",
+    "output": "157_SKATETRNARND.mp4",
+    "sha256": "48cd33681b23a7e4c2c601b7aaab57418ee094a2d32753427a9af3b8c0fe4e9f",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKATEUP.AVI",
+    "output": "158_SKATEUP.mp4",
+    "sha256": "1de54fe01776a0ed989157fe60bb84bec60c3cbc86db89b748a4dbe3a85369cd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKIPLOOP.AVI",
+    "output": "159_SKIPLOOP.mp4",
+    "sha256": "e447a80882537a1a61f34821f40c998ab4a9a928ef2db6935e27a6c2c16b2257",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SKIPROPE.AVI",
+    "output": "160_SKIPROPE.mp4",
+    "sha256": "13d7b7e00b4db141d60d9dd171638ebdbca939c619bf5dfd2c44f3bcbd8803a2",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SLAP.AVI",
+    "output": "161_SLAP.mp4",
+    "sha256": "c6c7044514e8d7026b1092fce9d4c00c1b4f7da0024bb000ef8399b8d094ca7c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SLEDGEHAMMER.AVI",
+    "output": "162_SLEDGEHAMMER.mp4",
+    "sha256": "5449dacca825da5638a63fee7e1d9f77e634c097e4891ff1c8cd24c4b4dac723",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SNEAKLOOP.AVI",
+    "output": "163_SNEAKLOOP.mp4",
+    "sha256": "8db8b4a7283636a7ea8193a1d367539ea301e95d01e12dfea0f047e91c041c46",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SNEEZE.AVI",
+    "output": "164_SNEEZE.mp4",
+    "sha256": "c5115ae7612210c2bf37c878c61810fc948790540d3a89c9e379c15a7efb1cc2",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SPILLCOFFEE.AVI",
+    "output": "165_SPILLCOFFEE.mp4",
+    "sha256": "71db619fc5259e10e9b35239faed0c4e6cf2fe69b7419a258ca2b3df95c9b87f",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SPILLDRINK.AVI",
+    "output": "166_SPILLDRINK.mp4",
+    "sha256": "42aebe86952ce06ab3a0a2e0e495f2ff48c8cf8ee58b3575c616aa5557409c98",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SPINBACKKICK.AVI",
+    "output": "167_SPINBACKKICK.mp4",
+    "sha256": "ebdad9e5bb3551c6dcdac895e854adfca81a70b6440a21c2a62619628a89008d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SPINFALL.AVI",
+    "output": "168_SPINFALL.mp4",
+    "sha256": "eba7a50a5075be63a31513f3b2271ec73be087723c24d1a6aad8b8eefe66aa6c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SPINKICKHI.AVI",
+    "output": "169_SPINKICKHI.mp4",
+    "sha256": "01f495c69aa6794c24da511df06e22c22d17c78df8b498f77636f3d1e197cee6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\STAGGER.AVI",
+    "output": "170_STAGGER.mp4",
+    "sha256": "15ae9f3d3140a07d779e3bce3b0f272786ef20658dfbe2a4ad0a20b8f8909b42",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\STRAIGHTKICK.AVI",
+    "output": "171_STRAIGHTKICK.mp4",
+    "sha256": "959a2be1b05457689204965eb0b73c534eba54a9d5ab05064bcaedd7b11e62b4",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\STRUTLOOP.AVI",
+    "output": "172_STRUTLOOP.mp4",
+    "sha256": "507eeba9f14c6538a6d38e3d20719f4129ef54bc2e64733305db7c49f38c3e1b",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\STUBTOE.AVI",
+    "output": "173_STUBTOE.mp4",
+    "sha256": "b30b26c1c6b9016d09d2b46ae5d59b2a0537d3e1932e14c3471bcf6831a353ea",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\SWINGAXE.AVI",
+    "output": "174_SWINGAXE.mp4",
+    "sha256": "3b63e8b80c69588f3ca316a7049044ae4b79805657020416a23af078965167f6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\TANTRUM.AVI",
+    "output": "175_TANTRUM.mp4",
+    "sha256": "670b482363df06b836d99592f4042825780c412e5609af4f0b10be421db8eccd",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\THRUDOOR.AVI",
+    "output": "176_THRUDOOR.mp4",
+    "sha256": "b8e21095946f48a8436cde34dabd286d5a726e1013c316c21d8ea4d9497e8bad",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\TIGHTROPE.AVI",
+    "duplicate_of": "046_TIGHTROPEBABY.mp4",
+    "sha256": "b41dd557d588b7a422824adb6586dce06167cf75b2cc285c1bf7f4ba853d440a"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\TORNADOKICK.AVI",
+    "output": "177_TORNADOKICK.mp4",
+    "sha256": "f6d9888976b634525b9e3d3acb9232efe94e28c24ff773c856e9df83a79adad1",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\TRIP.AVI",
+    "output": "178_TRIP.mp4",
+    "sha256": "4ea4c8ce815e32824927e022af1ebe74ba468b73a7716cc4e21ba683e9367c5c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\UNICYCLE.AVI",
+    "output": "179_UNICYCLE.mp4",
+    "sha256": "7de7774565e00826d67759eadb62ced145d97998798211481e50b7ddce395dc0",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\UNICYCLELOOP.AVI",
+    "output": "180_UNICYCLELOOP.mp4",
+    "sha256": "c86c64d79493bf1ae87aa9c68dbd14c36f6da6d56603400d5b957118c4d5b290",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\UNIOFF.AVI",
+    "output": "181_UNIOFF.mp4",
+    "sha256": "4ac9165b6cbea13a9f1aa0897a820ea96950d1741ca0f205c2feb403f3ad3d22",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\UNION.AVI",
+    "output": "182_UNION.mp4",
+    "sha256": "fdd75f9a4a65cf17c0ff44556b7d9eb4a79f3dc7a711bec85dfecf18c77838b9",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\UPANDAWAY.AVI",
+    "duplicate_of": "025_UPAWAY.mp4",
+    "sha256": "0650958473fe5e436b147702c4e16dd48b04296e7154120a9a8d26191ef879cb"
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\VAULT.AVI",
+    "output": "183_VAULT.mp4",
+    "sha256": "75c40855ffe2c5b167565685239c71dacf607e178203799962206e3b2d027f84",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKINTOWALL.AVI",
+    "output": "184_WALKINTOWALL.mp4",
+    "sha256": "fae992b3cfffc8a02c950faf9319cd98d748dd8392baf9e7c5eaa0b3c0b9cba5",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKLOOP.AVI",
+    "output": "185_WALKLOOP.mp4",
+    "sha256": "c6f6fb8a3e92447e865ee19c864405bcd7c43848a9e78f5da707d7dfd5a88e91",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKLOOPC.AVI",
+    "output": "186_WALKLOOPC.mp4",
+    "sha256": "9f47fcb6f7fda82e01a6ab5433ced8dd5954be6e5835b52d99cb5681ebe3d25d",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKSTART.AVI",
+    "output": "187_WALKSTART.mp4",
+    "sha256": "832b1e15e9a9edb361a02c2299b1be60bb677a82091eb055551b51c00ebed313",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKSTOP.AVI",
+    "output": "188_WALKSTOP.mp4",
+    "sha256": "b64ddd01e4047dc3d82a412772836d8da28155ef7e2b361d4ebf1b9f64608f87",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKTURNL.AVI",
+    "output": "189_WALKTURNL.mp4",
+    "sha256": "c1bc59335429a9337312a60d5eb1b41fc0ce5a1c27078dca3f44e127c8528627",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WALKTURNR.AVI",
+    "output": "190_WALKTURNR.mp4",
+    "sha256": "ee11974f321e38f7f6e8db97ded4adb7da9d6fbd387421dc0bba9de3bdc321e6",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WAVE.AVI",
+    "output": "191_WAVE.mp4",
+    "sha256": "0ec1cd145ef06f0d11d765e021bd78753ac27d17a58197e59c87fdad98d0b544",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WHIP.AVI",
+    "output": "192_WHIP.mp4",
+    "sha256": "1ab05059203fd98b79de77a1d29711a552c89d48c033d2461cb501968a74747c",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\WINDTOY.AVI",
+    "output": "193_WINDTOY.mp4",
+    "sha256": "41437f90a17f1e076562f7a8ebacb0b34bb1c53e8d7e4c741310a86cda08d338",
+    "success": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "MORE ANIMATIONS 2\\YAWNSTRETCH.AVI",
+    "output": "194_YAWNSTRETCH.mp4",
+    "sha256": "6895dea5cd521bf3389acbf16414d318d0dbe5e142dfab66b4023738c7f36b8d",
+    "success": true,
+    "diagnostics": ""
+  }
+]
